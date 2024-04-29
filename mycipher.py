@@ -43,3 +43,5 @@ for x in range(len(divide)):
     output = ""
   output += f' {divide[x]}'
 print(output.strip())
+
+#disregard. this is a test to see if i synced it right
